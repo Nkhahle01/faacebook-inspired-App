@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "SocialApp",
+    "slug": "social-app",
+    "version": "1.0.0",
+    "sdkVersion": "54.0.0",
+    "updates": {
+      "enabled": false
+    },
+    "platforms": ["ios", "android"]
+  }
+}
