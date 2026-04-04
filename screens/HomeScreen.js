@@ -19,7 +19,7 @@ export default function HomeScreen() {
   const [postText, setPostText] = useState("");
   const [searchText, setSearchText] = useState("");
 
-  // not outside to match the requirements
+  // handles the stories
   const stories = [
     {
       id: "1",
